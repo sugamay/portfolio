@@ -104,7 +104,7 @@ const projects = [
     name: "Pet Simulator Type Game",
     description: "A Pet Simulator–type game where you can collect randomly generated coins on the map, unlock new areas, hatch new pets, and rebirth.",
     image: PetSimulatorCopy,
-    demo_link: "https://youtu.be/sbvdb6us-zU",
+    demo_link: "https://youtu.be/CV7GaZqQAKw",
   }
   
 ];
